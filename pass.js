@@ -1,0 +1,1 @@
+exports.myPass = { pass: "XXXXXXXX" };
